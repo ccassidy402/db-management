@@ -3,4 +3,5 @@ CREATE TABLE Department (
     Name varchar(50) NOT NULL,
     Code int NOT NULL,
 	ParentDepartmentId int
+
 );
